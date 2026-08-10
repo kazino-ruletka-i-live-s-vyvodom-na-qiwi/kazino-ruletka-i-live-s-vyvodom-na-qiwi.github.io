@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ruletka-i-live-s-vyvodom-na-qiwi.github.io
+Sitemap: https://kazino-ruletka-i-live-s-vyvodom-na-qiwi.github.io/sitemap.xml
